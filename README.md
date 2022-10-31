@@ -1,4 +1,4 @@
 # chaosgame
-# w = right
-# s = left
+# w = left
+# s = right
 # try to get 3 points
